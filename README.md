@@ -1,6 +1,5 @@
 # City-procedural-generator-with-particle-system
 
-TEAM:
-  Buzdugan Mihaela
-  Gheorghe Adrian-Valentin
-  Radu Sabina-Ioana
+Team: <br/> &emsp; • Buzdugan Mihaela
+      <br/> &emsp; • Radu Sabina-Ioana
+      <br/> &emsp; • Gheorghe Adrian-Valentin
